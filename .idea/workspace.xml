@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="756130a3-bc20-4d9c-ae68-b990d8d7e7d2" name="Default" comment="changement message">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="756130a3-bc20-4d9c-ae68-b990d8d7e7d2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -202,7 +200,7 @@
       <updated>1515681847403</updated>
       <workItem from="1515681849040" duration="5695000" />
       <workItem from="1516007844589" duration="573000" />
-      <workItem from="1516281128896" duration="2329000" />
+      <workItem from="1516281128896" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="changement message">
       <created>1516283105481</created>
@@ -211,11 +209,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516283105481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changement message">
+      <created>1516283584269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1516283584269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8597000" />
+    <option name="totallyTimeSpent" value="8617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
