@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ProjetExpress.iml" filepath="$PROJECT_DIR$/.idea/ProjetExpress.iml" />
       <module fileurl="file://C:/mongo/.idea/mongo.iml" filepath="C:/mongo/.idea/mongo.iml" />
+      <module fileurl="file://U:/promash/.idea/promash.iml" filepath="U:/promash/.idea/promash.iml" />
     </modules>
   </component>
 </project>
