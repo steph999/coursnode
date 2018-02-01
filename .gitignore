@@ -1,3 +1,5 @@
 node_modules
 .idea
-dev.js
+config/keys.js
+proxy - Copie.bat
+proxy.bat
